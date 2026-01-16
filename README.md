@@ -47,7 +47,7 @@ Walk bias parameters:
 
 ```bash
 # Install from source
-git clone https://github.com/yourusername/context-graph.git
+git clone https://github.com/sudhanshu746/context-graph.git
 cd context-graph
 pip install -e .
 
